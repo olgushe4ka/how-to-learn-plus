@@ -1,0 +1,12 @@
+.page_theme_dark {
+  width: 100%;
+  background-color: black;
+  justify-content: center;
+  display: flex;
+  align-self: center;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  padding-inline-start: 0;
+}

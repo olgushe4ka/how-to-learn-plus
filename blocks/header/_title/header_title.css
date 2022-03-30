@@ -1,0 +1,13 @@
+.header_title {
+  position: absolute;
+  width: 730px;
+  height: 192px;
+  left: 64px;
+  top: 254px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 102px;
+  line-height: 96px;
+  z-index: 4;
+}

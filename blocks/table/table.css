@@ -1,0 +1,12 @@
+.table {
+  width: 80%;
+  margin: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  justify-content: space-between;
+  align-self: center;
+  flex-wrap: wrap;
+  padding: 0;
+  text-align: left;
+}

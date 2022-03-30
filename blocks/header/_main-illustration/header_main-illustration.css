@@ -1,0 +1,8 @@
+  .header_main-illustration {
+    position: absolute;
+    width: 765px;
+    height: 608px;
+    left: 675px;
+    top: 92px;
+    z-index: 2;
+  }

@@ -1,0 +1,6 @@
+.recources__logo-zone {
+  width: 1100px;
+  display: flex;
+  margin: 80px auto 217px auto;
+  justify-content: space-around;
+}

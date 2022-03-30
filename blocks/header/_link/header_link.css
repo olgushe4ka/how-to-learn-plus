@@ -1,0 +1,10 @@
+.header_link {
+  color: #2F80ED;
+  font-size: 18px;
+  font-family: Inter;
+  text-decoration: none;
+ }
+
+.header_link:hover {
+  font-weight: bold;
+}
