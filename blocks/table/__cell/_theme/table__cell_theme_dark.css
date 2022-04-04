@@ -2,5 +2,7 @@
   width: 19%;
   color: white;
   align-content: space-between;
-  border: black 1px solid ;
+  border: #11ffee00 1px solid;
+  position: relative;
+  z-index: 2;
 }
