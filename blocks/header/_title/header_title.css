@@ -1,9 +1,8 @@
 .header_title {
-  position: absolute;
+  display: flex;
+  padding-left: 64px;
   width: 730px;
   height: 192px;
-  left: 64px;
-  top: 254px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 600;
