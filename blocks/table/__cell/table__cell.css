@@ -1,0 +1,10 @@
+.table__cell {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items:flex-start;
+  justify-content: center;
+  margin-top: 60px;
+  text-align: left;
+}

@@ -1,0 +1,7 @@
+.two-columns__paragraph {
+  margin: 0;
+}
+
+.two-columns__paragraph:not(:first-child) {
+  padding-top: 30px;
+}
